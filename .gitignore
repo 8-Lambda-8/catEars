@@ -31,3 +31,6 @@ fp-info-cache
 
 #lock Files
 *.lck
+
+#Gerber Folder
+gerber/
