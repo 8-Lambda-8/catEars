@@ -1534,7 +1534,7 @@
     (property "Reference" "C12" (at 189.23 40.64 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10uF" (at 189.23 43.18 0)
+    (property "Value" "22uF" (at 189.23 43.18 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder" (at 186.3852 45.72 0)
